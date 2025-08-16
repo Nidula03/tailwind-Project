@@ -3,7 +3,7 @@ body{
 }
 
 .hero-back{
-      background-image: url(hero-background.png);
+      background-image: url(Images/hero-background.png);
       background-size: cover;
       
 }
