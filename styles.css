@@ -8,6 +8,12 @@ body{
       
 }
 
+.business{
+      background-image: url(Images/business.avif);
+      background-size: cover;
+}
+
+
 /* .trusted{
       padding: 16px 128px;
 }
